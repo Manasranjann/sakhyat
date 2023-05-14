@@ -37,19 +37,19 @@
                             
                             <ul class="nav justify-content-center justify-content-md-end social-icons">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="https://www.facebook.com/situ.chinmaya"><i class="fab fa-facebook"></i></a>
+                                    <a class="nav-link" href="https://www.facebook.com/profile.php?id=100009070016485"><i class="fab fa-facebook"></i></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="https://twitter.com/Chinmaya_situ?s=09"><i class="fab fa-twitter"></i></a>
+                                    <a class="nav-link" href="https://twitter.com/Manas63334355?t=B_KsE0D39kIA-Sc2Zo15gw&s=08"><i class="fab fa-twitter"></i></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="https://www.instagram.com/chinmaya.situ/"><i class="fab fa-instagram"></i></a>
+                                    <a class="nav-link" href="https://www.instagram.com/manas_sanam_/"><i class="fab fa-instagram"></i></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="https://www.linkedin.com/in/chinmaya-kumar-biswal-16045"><i class="fab fa-linkedin"></i></a>
+                                    <a class="nav-link" href="https://www.linkedin.com/in/manas001/"><i class="fab fa-linkedin"></i></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="https://api.whatsapp.com/send?phone=919556328216&text=hey chinmaya from Sakhyat.tech"><i class="fab fa-whatsapp"></i></a>
+                                    <a class="nav-link" href="https://wa.me/qr/3UAY6LG5BFMVL1 Manas from Sakhyat.tech"><i class="fab fa-whatsapp"></i></a>
                                 </li>
                             </ul>
                                 

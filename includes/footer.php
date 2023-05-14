@@ -58,7 +58,7 @@
                                     <div class="widget Text">
                                         <div class="widget-content">
                                             <p>
-                                                We are the student of Centurion University of Technology And Management. We Created this blog website for Domain project.
+                                                We are the student of Chandigarh university. We Created this blog website for Major project.
                                             </p>
                                         </div>
                                     </div>
@@ -115,7 +115,7 @@
                         <div class="col-lg-6">
                             <div class="copyright-section text-center text-lg-left">
                                 ©
-                                <script>document.write(new Date().getFullYear());</script> <a href="https://chinmayakumarbiswal.in">Sakhyat.Tech By Chinmaya</a> | All Rights Reserved 
+                                <script>document.write(new Date().getFullYear());</script> Sakhyat.Tech By Manas & Shubhashish</a> | All Rights Reserved 
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -124,19 +124,19 @@
                                     <div class="widget-content">
                                         <ul class="nav">
                                             <li class="nav-item">
-                                                <a class="nav-link" href="https://www.facebook.com/situ.chinmaya"><i class="fab fa-facebook"></i></a>
+                                                <a class="nav-link" href="https://www.facebook.com/profile.php?id=100009070016485"><i class="fab fa-facebook"></i></a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="https://twitter.com/Chinmaya_situ?s=09"><i class="fab fa-twitter"></i></a>
+                                                <a class="nav-link" href="https://twitter.com/Manas63334355?t=B_KsE0D39kIA-Sc2Zo15gw&s=08"><i class="fab fa-twitter"></i></a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="https://www.instagram.com/chinmaya.situ/"><i class="fab fa-instagram"></i></a>
+                                                <a class="nav-link" href="https://www.instagram.com/manas_sanam_/"><i class="fab fa-instagram"></i></a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="https://www.linkedin.com/in/chinmaya-kumar-biswal-16045"><i class="fab fa-linkedin"></i></a>
+                                                <a class="nav-link" href="https://www.linkedin.com/in/manas001/"><i class="fab fa-linkedin"></i></a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="https://api.whatsapp.com/send?phone=919556328216&text=hey chinmaya from Sakhyat.tech"><i class="fab fa-whatsapp"></i></a>
+                                                <a class="nav-link" href="https://wa.me/qr/3UAY6LG5BFMVL1"><i class="fab fa-whatsapp"></i></a>
                                             </li>
                                         </ul>
                                     </div>

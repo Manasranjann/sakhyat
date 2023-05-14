@@ -123,7 +123,7 @@
                                             <div class="title-sep sep-double"></div>
                                         </div>
                                     </div>
-                                    <p>CUTM, <br />Bhubaneswar</p>
+                                    <p>CU, <br />CHANDIGARH</p>
                                 </div>
                             </div>
 
@@ -135,9 +135,9 @@
                                             <div class="title-sep sep-double"></div>
                                         </div>
                                     </div>
-                                    <a href="mailto:situ@chinmayakumarbiswal.in"
+                                    <a href="mailto:manasranjansanam@gmail.in"
                                         style="text-decoration: none; color:black;">
-                                        <p>situ@chinmayakumarbiswal.in</p>
+                                        <p>manasranjansanam@gmail.in</p>
                                     </a>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                                         </div>
                                     </div>
                                     <a href="tel:+918917651457" style="text-decoration: none; color:black;">
-                                        <p>+91 8917651457</p>
+                                        <p>+91 7735764315</p>
                                     </a>
                                 </div>
                             </div>

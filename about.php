@@ -49,18 +49,18 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                     <div class="member-img">
-                        <img src="team/amu.jpg" class="img-fluid" alt="" />
+                        <img src="team/manas.jpg" class="img-fluid" alt="" />
                         <div class="social">
-                            <a href=""><i class="fab fa-facebook"></i></a>
-                            <a href=""><i class="fab fa-twitter"></i></a>
-                            <a href=""><i class="fab fa-instagram"></i></a>
-                            <a href=""><i class="fab fa-linkedin"></i></a>
-                            <a href=""><i class="fab fa-github"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=100009070016485 "><i class="fab fa-facebook"></i></a>
+                            <a href="https://twitter.com/Manas63334355?t=B_KsE0D39kIA-Sc2Zo15gw&s=08"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.instagram.com/manas_sanam_/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/manas001/"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://github.com/Manasranjann"><i class="fab fa-github"></i></a>
                         </div>
                     </div>
                     <div class="member-info">
-                        <h4>Amarendra Sahoo</h4>
-                        <span>Devloper</span>
+                        <h4>Manas Ranjan Khatua</h4>
+                        <span>CODER</span>
                     </div>
                 </div>
             </div>
@@ -68,41 +68,23 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                     <div class="member-img">
-                        <img src="team/kishan.jpg" class="img-fluid" alt="" />
+                        <img src="team/shubhashish.jpg" class="img-fluid" alt="" />
                         <div class="social">
-                            <a href=""><i class="fab fa-facebook"></i></a>
-                            <a href=""><i class="fab fa-twitter"></i></a>
-                            <a href=""><i class="fab fa-instagram"></i></a>
-                            <a href=""><i class="fab fa-linkedin"></i></a>
-                            <a href=""><i class="fab fa-github"></i></a>
+                            <a href="https://www.facebook.com/shubhashish.mohanta2000?mibextid=ZbWKwL "><i class="fab fa-facebook"></i></a>
+                            <a href="https://twitter.com/Shubhashis20770?t=raHIdWXU2v7f81q0b2wFug&s=08 "><i class="fab fa-twitter"></i></a>
+                            <a href="https://instagram.com/just_shubhashish?igshid=ZDdkNTZiNTM="><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/shubhashish-mohanta-971914211"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://github.com/Shubhashhish"><i class="fab fa-github"></i></a>
                         </div>
                     </div>
                     <div class="member-info">
-                        <h4>Kishan Das</h4>
-                        <span>Devloper</span>
+                        <h4>Shubhashish Mohanta</h4>
+                        <span>CODER</span>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                        <img src="team/situ.jpg" class="img-fluid" alt="" />
-                        <div class="social">
-                            <a href="https://www.facebook.com/situ.chinmaya" title="Facebook"><i class="fab fa-facebook"></i></a>
-                            <a href="https://chinmayakumarbiswal.in" title="Website"><i class="fas fa-globe"></i></a>
-                            <a href="https://twitter.com/Chinmaya_situ?s=09" title="Twitter"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.instagram.com/chinmaya.situ/" title="Instagram"><i class="fab fa-instagram"></i></a>
-                            <a href="https://www.linkedin.com/in/chinmaya-kumar-biswal-16045" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                            <a href="https://github.com/chinmayakumarbiswal/" title="GitHub"><i class="fab fa-github"></i></a>
-                        </div>
-                    </div>
-                    <div class="member-info">
-                        <h4>Chinmaya Kumar Biswal</h4>
-                        <span>Devloper</span>
-                    </div>
-                </div>
-            </div>
+          
 
 
         </div>
@@ -123,8 +105,7 @@
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/plugins.js"></script>
     <script src="./js/main.js"></script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-62a47696f6cce6bf"></script>
-
+   
 </body>
 
 </html>
